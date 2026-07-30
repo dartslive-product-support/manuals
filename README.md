@@ -1,6 +1,6 @@
 # manuals
 ここにはマニュアルのPDFが置かれています。  
-https://product-support.dartslive.com/manuals/※ここに配置されます。  
+https://product-support.dartslive.com/manuals/ ※ここに配置されます。  
 
 25MB以上のファイルはWEBから直接アップロードできません。
 github desktopを使えばuploadできると思います。
